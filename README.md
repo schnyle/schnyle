@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Kyle
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvs247)](https://github.com/kvs247/github-readme-stats)
 
 <!--
 **kvs247/kvs247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
