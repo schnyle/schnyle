@@ -12,7 +12,7 @@
   - Generates synthetic velocimeter data measuring vector field dynamics
   - Visualizes particle motion over time using Python animation tools
 
-- **[Personal Math Library [WIP] (kmath)](https://github.com/kvs247/llfd)** - Math library used in my other projects
+- **[Personal Math Library [WIP] (kmath)](https://github.com/kvs247/kmath)** - Math library used in my other projects
   - Provides Matrix class with basic arithmetic operations
   - Matrix transposition
   - Eigenvalue & eigenvector calculation using QR decomposition
