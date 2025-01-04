@@ -12,10 +12,10 @@
   - Generates synthetic velocimeter data measuring vector field dynamics
   - Visualizes particle motion over time using Python animation tools
 
-- **[Laplacian Leader Follower Dynamics (llfd)](https://github.com/kvs247/llfd)** - Mathematical computation tool
-  - Calculates LLFD of Laplacian matrices
-  - Includes QR algorithm implementation for matrix eigenstate computation
-  - Built with performance and accuracy in mind
+- **[Personal Math Library [WIP] (kmath)](https://github.com/kvs247/llfd)** - Math library used in my other projects
+  - Provides Matrix class with basic arithmetic operations
+  - Matrix transposition
+  - Eigenvalue & eigenvector calculation using QR decomposition
 
 ## 🛠️ Technologies & Tools
 
