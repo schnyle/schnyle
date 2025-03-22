@@ -2,17 +2,17 @@
 
 ## 🔭 Featured Projects
 
-- **[CLI Chess Application (chesspp)](https://github.com/kvs247/chesspp)** - C++ chess engine with command-line interface
+- **[CLI Chess Application (chesspp)](https://github.com/schnyle/chesspp)** - C++ chess engine with command-line interface
   - Features custom move validation, piece movement, and game state management
   - Implements standard chess rules and gameplay mechanics
   - Utilizes multithreading to manage multiple modes of state change
 
-- **[Advection-Diffusion Model Simulation](https://github.com/kvs247/adm-sim)** - High performance physics simulation
+- **[Advection-Diffusion Model Simulation](https://github.com/schnyle/adm-sim)** - High performance physics simulation
   - Simulates fluid dynamics using optimized C++ with multithreading
   - Generates synthetic velocimeter data measuring vector field dynamics
   - Visualizes particle motion over time using Python animation tools
 
-- **[Personal Math Library [WIP] (kmath)](https://github.com/kvs247/kmath)** - Math library used in my other projects
+- **[Personal Math Library [WIP] (kmath)](https://github.com/schnyle/kmath)** - Math library used in my other projects
   - Provides Matrix class with basic arithmetic operations
   - Matrix transposition
   - Eigenvalue & eigenvector calculation using QR decomposition
@@ -43,9 +43,9 @@
 
 ## 📈 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvs247&layout=compact&theme=dark)](https://github.com/kvs247/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schnyle&layout=compact&theme=dark)](https://github.com/schnyle/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvs247&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=kvs247&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schnyle&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=schnyle&show_icons=true&theme=dark)
 
 ## 📫 Connect With Me
 
