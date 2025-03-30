@@ -7,10 +7,10 @@
   - Implements standard chess rules and gameplay mechanics
   - Utilizes multithreading to manage multiple modes of state change
 
-- **[Advection-Diffusion Model Simulation](https://github.com/schnyle/adm-sim)** - High performance physics simulation
-  - Simulates fluid dynamics using optimized C++ with multithreading
-  - Generates synthetic velocimeter data measuring vector field dynamics
-  - Visualizes particle motion over time using Python animation tools
+- **[Minesweeper (minesweeper)](https://github.com/schnyle/minesweeper)** - Minesweeper game using SDL2
+  - Graphics management with SDL2
+  - Object oriented design
+  - Configuration options
 
 - **[Personal Math Library [WIP] (kmath)](https://github.com/schnyle/kmath)** - Math library used in my other projects
   - Provides Matrix class with basic arithmetic operations
