@@ -12,11 +12,6 @@
   - Object oriented design
   - Configuration options
 
-- **[Personal Math Library [WIP] (kmath)](https://github.com/schnyle/kmath)** - Math library used in my other projects
-  - Provides Matrix class with basic arithmetic operations
-  - Matrix transposition
-  - Eigenvalue & eigenvector calculation using QR decomposition
-
 ## 🛠️ Technologies & Tools
 
 ### Backend & Cloud
