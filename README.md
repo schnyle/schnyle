@@ -2,15 +2,29 @@
 
 ## 🔭 Featured Projects
 
-- **[CLI Chess Application (chesspp)](https://github.com/schnyle/chesspp)** - C++ chess engine with command-line interface
-  - Features custom move validation, piece movement, and game state management
-  - Implements standard chess rules and gameplay mechanics
-  - Utilizes multithreading to manage multiple modes of state change
+- **[CLI Chess Application (chesspp)](https://github.com/schnyle/chesspp)**
 
-- **[Minesweeper (minesweeper)](https://github.com/schnyle/minesweeper)** - Minesweeper game using SDL2
-  - Graphics management with SDL2
-  - Object oriented design
-  - Configuration options
+  A comprehensive command-line chess application demonstrating advanced C++ programming practices and concurrent system design with CPU opponent capabilities.
+
+  - **Modern C++ Design**: RAII implementation with smart pointers and strong type safety
+  - **Concurrent Programming**: Thread-safe timer system with asynchronous input handling
+  - **Comprehensive Testing**: Unit testing with Google Test framework and automated pipeline
+
+- **[Minesweeper (minesweeper)](https://github.com/schnyle/minesweeper)**
+
+  A classic Minesweeper implementation using SDL2 for custom graphics engine.
+
+  - **Component-Based Architecture**: Clean separation with observer pattern implementation
+  - **Cross-Platform Development**: Docker containerization for Windows cross-compilation from Linux
+  - **Graphics Programming**: Custom rendering engine with efficient sprite caching system
+
+- **[Advection-Diffusion Model Simulation (adm-sim)](https://github.com/schnyle/adm-sim)**
+
+  A high-performance, real-time simulation of advection-diffusion processes with interactive visualization for modeling pollutant dispersion and fluid dynamics.
+
+  - **Physics Modeling**: Implementation of advection-diffusion PDE using Gaussian parcel methods
+  - **Performance Optimization**: Multi-threaded rendering with vectorized computations
+  - **Interactive Visualization**: Real-time cursor-driven flow field control with X11 graphics
 
 ## 🛠️ Technologies & Tools
 
